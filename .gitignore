@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# Compiled Class files
+*.class
+libs
+/tmp/
+.*
+bin
+gen
+obj
+
